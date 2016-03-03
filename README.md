@@ -6,8 +6,10 @@
 </a>
 
 
-Opencv [socket server](https://github.com/Jermorin/opencv-server-socket) in docker who emit faces position
-See also : [client example](https://github.com/Jermorin/opencv-react-electron)
+- Opencv [socket server](https://github.com/Jermorin/opencv-server-socket) in docker who emit faces position
+- See also : [client example](https://github.com/Jermorin/opencv-react-electron)
+- [dockerHub](https://hub.docker.com/r/jermorin/opencv-server-socket/)
+- Docker from [jermorin/node-opencv](https://github.com/Jermorin/docker-node-opencv)
 
 ## Install
 
