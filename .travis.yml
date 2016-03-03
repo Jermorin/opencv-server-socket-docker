@@ -1,7 +1,7 @@
-sudo: required
-
 services:
   - docker
 
-install:
+install: true
+
+script:
   - docker build -t jermorin/opencv-server-socket .
