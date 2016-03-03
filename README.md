@@ -1,9 +1,6 @@
-<big><h1 align="center">opencv-server-socket-docker</h1></big>
+# opencv-server-socket-docker
 
-<a href="https://travis-ci.org/Jermorin/opencv-server-socket-docker">
-  <img src="https://img.shields.io/travis/Jermorin/opencv-server-socket-docker.svg?style=flat-square"
-       alt="Build Status">
-</a>
+[![Build Status](https://travis-ci.org/Jermorin/opencv-server-socket-docker.svg?branch=master)](https://travis-ci.org/Jermorin/opencv-server-socket-docker)
 
 
 - Opencv [socket server](https://github.com/Jermorin/opencv-server-socket) in docker who emit faces position
@@ -23,7 +20,7 @@ docker pull jermorin/opencv-server-socket
 docker run jermorin/opencv-server-socket
 ```
 
-###client
+### Client
 
 ```js
 import socket from 'socket.io-client';
