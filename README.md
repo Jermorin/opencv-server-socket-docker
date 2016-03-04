@@ -17,7 +17,7 @@ docker pull jermorin/opencv-server-socket
 ## Usage
 
 ```sh
-docker run jermorin/opencv-server-socket
+docker run jermorin/opencv-server-socket -p 0.0.0.0:3000:3000
 ```
 
 ### Client
